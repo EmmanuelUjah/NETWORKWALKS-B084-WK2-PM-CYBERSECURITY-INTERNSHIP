@@ -9,7 +9,7 @@ ID: NW-084-000
 
 LinkedIn : https://www.linkedin.com/in/emmanuel-ujah-597701203/
 
- # 🔐 Cybersecurity FOOTPRINTING & RECONNAISSANCE ATTACKS WITH MULTIPLE KALI TOOLS, AND NETWORK SCANNING WITH ZENMAP
+ # 🔐FOOTPRINTING & RECONNAISSANCE ATTACKS WITH MULTIPLE KALI TOOLS, AND NETWORK SCANNING WITH ZENMAP
 
 # 📌 Project Overview:
 In this lab I will footprint the live website of networkwalks.com using six built-in Kali Linux tools: **whois, whatweb, nslookup, curl, wafw00f and dnsrecon**. Each tool reveals a different piece of the target, and together they build a full profile of it. The information you gather here is the foundation for everything that follows. In the next projects/tasks you will use these same findings to plan your scanning and your attacks, because you cannot attack what you have not first understood. Record every output carefully, as you will need it for your final report.
